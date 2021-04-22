@@ -1,2 +1,5 @@
 The dataset I used
 https://www.kaggle.com/denisadutca/bucharest-house-price-dataset/
+
+I handled number of rooms predictions with both a regression and classifier approach using a multilayer linear neural network.
+Price was predicted with a regression approach.
